@@ -2,7 +2,7 @@
 
 This package is used to collect data and log it on various channels.
 
-The library is configurable via the config.ini file.
+The library is configurable via the .env file.
 
 Available drivers:
 
