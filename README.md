@@ -6,12 +6,12 @@ The library is configurable via the .env file.
 
 Available drivers:
 
-`DRIVER_TYPE=CLI`
+`driver_type=CLI`
 
-`DRIVER_TYPE=JSON`
+`driver_type=JSON`
 
-`DRIVER_TYPE=PLAIN`
+`driver_type=PLAIN`
 
-For the `JSON/PLAIN` drivers, the `LOGS_STORAGE_LOCATION` is required. If not provided, it will default to a log file, that depends on the driver.
+For the `JSON/PLAIN` drivers, the `logs_storage_location` is required. If not provided, it will default to a log file, that depends on the driver.
 
 Just copy the .env.example to .env.
