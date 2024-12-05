@@ -75,7 +75,7 @@ type Log struct {
 
 func NewLogger() Logger {
 	viper.SetConfigName("config")
-	viper.AddConfigPath(".") // Current directory
+	viper.AddConfigPath(".")
 	viper.SetConfigType("ini")
 	err := viper.ReadInConfig()
 	if err != nil {
