@@ -13,3 +13,5 @@ Available drivers:
 `driver_type=PLAIN`
 
 For the `JSON/PLAIN` drivers, the `logs_storage_location` is required. If not provided, it will default to a log file, that depends on the driver.
+
+The logger can be used as in the examples provided in either cmd/main.go or in the logger specific tests.
