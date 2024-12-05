@@ -1,4 +1,0 @@
-[2024-12-05T21:37:32.122566+02:00] - [ERROR] Hello, vtm! [{testey1 testval1} {key1 value1}]
-[2024-12-05T21:37:32.12275+02:00] - [ERROR] log1 [{key value} {key1 value1} {transaction_id 78c01915-4dd4-4ff7-9e0e-c4626bc2282c}]
-[2024-12-05T21:37:32.122757+02:00] - [ERROR] log2 [{key value} {key2 value2} {transaction_id 78c01915-4dd4-4ff7-9e0e-c4626bc2282c}]
-[2024-12-05T21:37:32.122762+02:00] - [ERROR] log3 [{key value} {key3 value3} {transaction_id 78c01915-4dd4-4ff7-9e0e-c4626bc2282c}]
